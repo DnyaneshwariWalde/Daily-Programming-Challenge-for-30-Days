@@ -43,7 +43,7 @@ public class SmallestandLargest {
 		
 		return min;
 	}
-private static int findlargestelement(int[] arr) {
+	private static int findlargestelement(int[] arr) {
 			int max = arr[0];
 			
 			for(int i= 0;i<arr.length;i++)
