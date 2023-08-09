@@ -28,9 +28,10 @@ public class ReverseString {
         }
     }
 }
+
 /*
  * Output:
  *  Enter a String to Reverse: 
-	DECODE
-	Reversed String: EDOCED
+    DECODE
+    Reversed String: EDOCED
  */
